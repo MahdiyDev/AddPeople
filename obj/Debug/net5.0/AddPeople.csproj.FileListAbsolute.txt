@@ -1,0 +1,16 @@
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\bin\Debug\net5.0\AddPeople.exe
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\bin\Debug\net5.0\AddPeople.deps.json
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\bin\Debug\net5.0\AddPeople.runtimeconfig.json
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\bin\Debug\net5.0\AddPeople.runtimeconfig.dev.json
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\bin\Debug\net5.0\AddPeople.dll
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\bin\Debug\net5.0\ref\AddPeople.dll
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\bin\Debug\net5.0\AddPeople.pdb
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\obj\Debug\net5.0\AddPeople.csproj.AssemblyReference.cache
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\obj\Debug\net5.0\AddPeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\obj\Debug\net5.0\AddPeople.AssemblyInfoInputs.cache
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\obj\Debug\net5.0\AddPeople.AssemblyInfo.cs
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\obj\Debug\net5.0\AddPeople.csproj.CoreCompileInputs.cache
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\obj\Debug\net5.0\AddPeople.dll
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\obj\Debug\net5.0\ref\AddPeople.dll
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\obj\Debug\net5.0\AddPeople.pdb
+C:\Users\Mahdiy\Desktop\MahdiyDev\dotnet\AddPeople\obj\Debug\net5.0\AddPeople.genruntimeconfig.cache
